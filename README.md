@@ -8,8 +8,8 @@ the Wwise Authoring API.
 1) Clone repository
 2) Install Node.js for your system
 3) In the platform directory containing .bat or .command file:
-a) Open CMD or Terminal
-b) Type "npm install" (Node.js required)
+\na) Open CMD or Terminal
+\nb) Type "npm install" (Node.js required)
 
 # Usage Instructions
 
