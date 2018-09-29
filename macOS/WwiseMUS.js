@@ -1,4 +1,4 @@
-var ak = require('include/AK/WwiseAuthoringAPI/js/waapi.js').ak;
+var ak = require('waapi.js').ak;
 var autobahn = require('autobahn');
 
 // Create the WAMP connection
