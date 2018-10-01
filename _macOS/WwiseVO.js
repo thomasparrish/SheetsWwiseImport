@@ -15,7 +15,7 @@ connection.onopen = function (session) {
  var query = {
  from: { path: ['\\Events\\Default Work Unit\\VO\\'] },
  transform: [
-	 {select:['children']}
+	 {select:['descendants']}
  ]
  };
  
