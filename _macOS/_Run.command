@@ -8,4 +8,4 @@ node WwiseVO.js > ../WwiseVO.txt
 git add --all
 git commit -m "Added events from Wwise"
 git push
-PAUSE
+exit
