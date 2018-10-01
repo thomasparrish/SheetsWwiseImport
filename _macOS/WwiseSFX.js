@@ -14,9 +14,9 @@ connection.onopen = function (session) {
  
  var query = {
  from: { path: ['\\Events\\Default Work Unit\\SFX\\'] },
+ from: { ofType: ['Event']},
  transform: [
-	 {select:['descendants']},
-	 {ofType:['Event']}
+	 {select:['descendants']}
  ]
  };
  
