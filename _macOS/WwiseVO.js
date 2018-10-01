@@ -15,8 +15,9 @@ connection.onopen = function (session) {
  var query = {
  from: { path: ['\\Events\\Default Work Unit\\VO\\'] },
  transform: [
-	 {select:['descendants']}
- ]
+	     {select:['descendants']},
+	     {where:['type:isIn', ['Event']]}
+     ]
  };
  
  var returnOptions = {

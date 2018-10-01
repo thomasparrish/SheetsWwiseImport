@@ -16,7 +16,7 @@ connection.onopen = function (session) {
      from: { path: ['\\Events\\Default Work Unit\\SFX\\'] },
      transform: [
 	     {select:['descendants']},
-	     {where:['type:isIn','^Event']}
+	     {where:['type:isIn', ['Event']]}
      ]
  };
  
