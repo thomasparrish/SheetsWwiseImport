@@ -13,11 +13,11 @@ connection.onopen = function (session) {
  //console.log('wamp connection opened');
  
  var query = {
- from: { path: ['\\Events\\Default Work Unit\\SFX\\'] },
- transform: [
-	 {select:['descendants']},
-	 {where:['type:isIn', 'Event']}
- ]
+     from: { path: ['\\Events\\Default Work Unit\\SFX\\'] },
+     transform: [
+	     {select:['descendants']},
+	     {where:['name:matches','Enemy']}
+     ]
  };
  
  var returnOptions = {
