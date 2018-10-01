@@ -13,7 +13,7 @@ connection.onopen = function (session) {
  //console.log('wamp connection opened');
  
  var query = {
- from: { path: ['\\Events\\Default Work Unit\\SFX\\'], ofType: ['Event'] },
+ from: { path: ['\\Events\\Default Work Unit\\SFX\\'] },
  transform: [
 	 {select:['descendants']}
  ]
