@@ -15,7 +15,7 @@ connection.onopen = function (session) {
  var query = {
  from: { path: ['\\Events\\Default Work Unit\\SFX\\'] },
  transform: [
-	 {select:['children']}
+	 {select:['descendants']}
  ]
  };
  
@@ -27,7 +27,7 @@ connection.onopen = function (session) {
  session.call('ak.wwise.core.object.get', [], query, returnOptions).then(
  function(res) {
  var objects = res.kwargs.return;
- for(i = 0; i<objects.length; ++i) {
+ for(i = 0; i < objects.length; ++i) {
  console.log(objects[i].name);
  }
  },
