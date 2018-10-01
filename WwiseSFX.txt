@@ -12,3 +12,4 @@ Shotgun_Fire
 Shotgun_Reload
 Shotgun_Pickup
 Shotgun_Impact
+ThisISANewEvents
