@@ -14,3 +14,8 @@ Enemy_02
 Enemy_03
 Enemy_04
 Enemy_05
+Player_01
+Player_02
+Player_03
+Player_04
+Player_05
