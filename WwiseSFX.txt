@@ -8,3 +8,5 @@ Event_SFX_07
 Event_SFX_08
 Event_SFX_09
 Event_SFX_10
+Shotgun_Fire
+Shotgun_Reload
