@@ -16,7 +16,7 @@ connection.onopen = function (session) {
  from: { path: ['\\Events\\Default Work Unit\\SFX\\'] },
  transform: [
 	 {select:['descendants']},
-	 {type:['Event']}
+	 {typeof:['Event']}
  ]
  };
  
