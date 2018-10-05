@@ -8,7 +8,6 @@ Event_SFX_07
 Event_SFX_08
 Event_SFX_09
 Event_SFX_10
-Shotgun_Fire
 Enemy_01
 Enemy_02
 Enemy_03
@@ -19,12 +18,6 @@ Player_02
 Player_03
 Player_04
 Player_05
-Event_SFX_11
-Event_SFX_12
-Event_SFX_13
-Event_SFX_14
-Event_SFX_15
-Event_SFX_16
 Lars_01
 Lars_02
 Lars_03
@@ -57,3 +50,8 @@ Martin_08
 Martin_09
 Martin_10
 Martin_11
+Tom_01
+Tom_02
+Tom_03
+Tom_04
+Tom_05
