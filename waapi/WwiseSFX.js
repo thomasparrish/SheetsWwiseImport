@@ -20,9 +20,7 @@ connection.onopen = function (session) {
      ]
  };
  
- var returnOptions = {
- return: ['id', 'name']
- };
+ var returnOptions = { return: ['id', 'name'] };
 
 // Call getInfo
  session.call('ak.wwise.core.object.get', [], query, returnOptions).then(
