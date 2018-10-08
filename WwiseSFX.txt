@@ -62,3 +62,8 @@ TestingPostGen_02
 TestingPostGen_03
 TestingPostGen_04
 TestingPostGen_05
+TestOnOpen_01
+TestOnOpen_02
+TestOnOpen_03
+TestOnOpen_04
+TestOnOpen_05
