@@ -6,3 +6,4 @@ git add --all %projPath%\
 git commit %projPath%\ -m "Added events from Wwise"
 git pull %projPath%\
 git push %projPath%\
+pause
