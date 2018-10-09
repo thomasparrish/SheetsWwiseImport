@@ -1,3 +1,5 @@
-Shotgun_EmptyFire
-Shotgun_Fire
-Shotgun_Reload
+SFX_01
+SFX_02
+SFX_03
+SFX_04
+SFX_05
