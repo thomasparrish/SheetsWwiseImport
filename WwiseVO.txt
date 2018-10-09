@@ -1,1 +1,1 @@
-Connection closed. Reason: unreachable
+error: ${error}
