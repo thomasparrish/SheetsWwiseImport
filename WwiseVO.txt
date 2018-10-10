@@ -1,5 +1,3 @@
-VO_01
-VO_02
-VO_03
-VO_04
-VO_05
+Event_VO_01
+Event_VO_02
+Event_VO_03
