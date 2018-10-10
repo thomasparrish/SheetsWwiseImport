@@ -1,6 +1,6 @@
 #!/bin/sh
 RepositoryPath=/Users/thomas.parrish/Documents/WwiseProjects/WwiseSandbox/SheetsWwiseImport
-echo $RepositoryPath > output.txt
+echo $RepositoryPath/waapi/ > output.txt
 node $RepositoryPath/waapi/WwiseSFX.js > $RepositoryPath/WwiseSFX.txt
 node $RepositoryPath/waapi/WwiseMUS.js > $RepositoryPath/WwiseMUS.txt
 node $RepositoryPath/waapi/WwiseVO.js > $RepositoryPath/WwiseVO.txt
