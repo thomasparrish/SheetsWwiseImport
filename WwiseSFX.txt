@@ -3,8 +3,3 @@ Event_SFX_02
 Event_SFX_03
 Event_SFX_04
 Event_SFX_05
-Event_SFX_06
-Event_SFX_07
-Event_SFX_08
-Event_SFX_09
-Event_SFX_10
