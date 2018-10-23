@@ -1,3 +1,11 @@
 Event_VO_01
 Event_VO_02
 Event_VO_03
+Pierce_01
+Pierce_02
+Pierce_03
+Pierce_04
+Pierce_05
+Pierce_06
+Pierce_07
+Pierce_08
